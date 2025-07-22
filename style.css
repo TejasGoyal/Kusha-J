@@ -1,0 +1,17 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+h2 {
+  color: #2b2b2b;
+}
+
+.card h4 {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+textarea {
+  resize: none;
+}
